@@ -1,6 +1,38 @@
-#lo selskicu
+# lo selskicu
 ## 别看了，很丢人的。  
 为了穿梭在互联网`{lo mujysamseltcana}`的各个地方，我现在有N个账号散落在各个地方，你绝对想不到会是哪里。
+## 关于自己
+我是世界上唯一一只会说逻辑语的白猫
+mi'e lo pa blabi mlatu noi la .lojban. ve tavla
+我喜欢吃面包和牛奶巧克力
+mi nelci citka lo nanba .e lo ladvu'icakla
+我有很多朋友
+mi ponse so'i pendo
+比如：
+mu'a la.brunos. mu'a nai
+mu'a la .elud. mu'a nai
+
+la .brunos. braruslabno jo'u ko'a fislytsa
+(to .ii la .brunos. kakne mulno tunlo mi toi)
+(to ro'u le betfu be la .brunos. mligla toi)
+
+逻辑语旗帜
+lanci la .lojban.
+![lanci la .lojban](https://mw.lojban.org/images/5/53/creka_lojban-2400.svg)
+逻辑语苏维埃社会主义共和国联盟旗帜
+lanci la .jbojevysofkemsuzgugje'ake'eborkemfaipaltrusi'oke'ekemgubyseltru.
+![lanci la .jbojevysofkemsuzgugje'ake'eborkemfaipaltrusi'oke'ekemgubyseltru.](https://mw.lojban.org/images/9/9a/LSSR_fork_3.svg)
+mi ponse mutce pendo
+我使用的语言
+------------------------
+|1.普通话 | `bancumunu` |
+|2.英语   | `bangenugu` |
+|3.逻辑语 | `banjubu'o` |
+|4,世界语 | `pa'arbau`  |
+------------------------
+
+
+
 
 <!--
 ！！！不要动这坨代码，改了会崩！！！
