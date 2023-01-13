@@ -1,7 +1,9 @@
 #`lo selskicu`
-### 别看了，很丢人的。为了穿梭在互联网`{lo mujysamseltcana}`
+### 别看了，很丢人的。  
+###为了穿梭在互联网`{lo mujysamseltcana}`的各个地方，我现在有N个账号散落在各个地方，你绝对想不到会是哪里。
 
 <!--
+！！！不要动这坨代码，改了会崩！！！
 **samylat-1/samylat-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
