@@ -1,4 +1,5 @@
-### Hi there 👋
+#`lo selskicu`
+### 别看了，很丢人的。为了穿梭在互联网`{lo mujysamseltcana}`
 
 <!--
 **samylat-1/samylat-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
