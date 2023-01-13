@@ -38,7 +38,7 @@ lanci la .jbojevysofkemsuzgugje'ake'eborkemfaipaltrusi'oke'ekemgubyseltru.
 ### 任务
 - [x] 活着  
 - [x] 学逻辑语 `la .lojban.`   
--  连夜逃离地球  
+-  <sub>连</sub><sup>夜</sup><sub>逃</sub><sup>离</sup><sub>地</sub><sup>球 </sup> 
 
 
 
@@ -48,7 +48,12 @@ lanci la .jbojevysofkemsuzgugje'ake'eborkemfaipaltrusi'oke'ekemgubyseltru.
 逻辑语词典查询系统：[la jbovlaste](http://jbovlaste.lojban.org/)  
 最贴近官方的非官方教程：（100%英文）[大力注入vape猛戳此处](https://lojban.pw/articles/complete-lojban-language/)  
 
-什么 `markdown` ？感觉……不如 `*.docx` ……方便性……（经典再现）
+什么 `markdown` ？感觉……不如 `*.docx` ……方便性……（经典再现）  
+
+## 链接
+B!站！ [**等级不足，拒绝访问**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+y2b [*等级不足，拒绝访问*](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+维 鸡掰 科 [**等级不足，_拒绝_ 访问**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 
 
 
